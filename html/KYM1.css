@@ -1,0 +1,39 @@
+.header img {
+  float: right;
+  width: 130px;
+  height: 130px;
+  background: #555;
+  border-radius: 100%;
+  margin-bottom: 50px;
+}
+@media (max-width: 780px){
+}
+@media ( min-width: 992px){
+
+}
+body{
+  background-image: url( "1_8LSmnZZpqJ-CK4hV5Dwm5A.jpeg ");
+ background-size: cover;
+ background-attachment:fixed;
+
+}
+abbr{
+  font-size: 150px;
+  color: hsl(174, 69%, 15%) ;
+}
+.nav{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 130px;
+   
+
+
+
+}
+.arabic{
+  margin-left: 20px;
+  padding: 30px;
+}
+.english{
+ 
+}
